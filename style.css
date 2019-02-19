@@ -1,0 +1,108 @@
+/*
+<!--------------------------------------------------- banner --------------------------------------------------->
+*/
+
+
+
+/*
+<!--------------------------------------------------- text --------------------------------------------------->
+*/
+
+
+h1, h2, h3, h4 {
+    margin-right: 12%;
+    margin-left: 12%;
+    padding:3px;
+    border:4px;
+    background-color: #F39317;
+    box-shadow: 5px 10px;
+}
+
+h6 {
+    color: white;
+}
+
+.font-weight {
+    color: orange;
+}
+
+/*
+<!--------------------------------------------------- footer --------------------------------------------------->
+*/
+
+#footer {
+    background: #383736;
+    padding: 0 0 0 0;
+    font-size: 12px;
+    font-color: #fff;
+    color: #fff;
+}
+
+/*
+<!--------------------------------------------------- bouton --------------------------------------------------->
+*/
+
+.btn-outline-secondary {
+    color: orange;
+    border-color: orange;
+}
+
+/*
+<!--------------------------------------------------- presentation --------------------------------------------------->
+*/
+
+.presentation {
+    background-color: #F7EFF5;
+}
+
+i {
+    height: 50px;
+    width: 50px;
+}
+
+/*
+<!--------------------------------------------------- card --------------------------------------------------->
+*/
+
+
+.cards {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+
+}
+
+#card1 {
+  background-color: #6E757F;
+
+}
+
+#card2 {
+  background-color: #F39317;
+
+}
+
+#card3{
+  background-color: #8B0F10;
+
+}
+
+#card4 {
+  background-color: #000099;
+
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+/*
+<!--------------------------------------------------- profil --------------------------------------------------->
+*/
+
+.rounded-circle {
+
+    border-radius: 50% !important;
+
+}
